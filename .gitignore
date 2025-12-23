@@ -1,0 +1,10 @@
+# Video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.flv
+
+# Python
+__pycache__/
+*.py[cod]
